@@ -50,7 +50,7 @@ end
 
 
 def run
-help
+puts help
 puts "Please enter a command:"
 command = gets.chomp
   if command == "list"
