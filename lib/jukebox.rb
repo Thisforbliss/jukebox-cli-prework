@@ -61,7 +61,7 @@ command = gets.chomp
     help
   else command == "exit"
     exit_jukebox
-    break
+    #break
   end
 end
 
