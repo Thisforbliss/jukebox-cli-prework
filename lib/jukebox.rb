@@ -49,7 +49,7 @@ puts "Goodbye"
 end
 
 
-def run
+def run()
 puts help
 puts "Please enter a command:"
 command = gets.chomp
